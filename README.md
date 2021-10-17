@@ -71,3 +71,13 @@
 
 #### Sub-task 3:
 - Interpret the results and use them to formulate your answers to the client’s hypotheses and questions. You will be asked to form these answers into coherent thoughts and recommendations in the next module.
+
+## Task 5: Insights & Recommendation
+
+### Background Information
+- The client wants a quick update on the project progress.
+
+- The Lead Data Scientist wants you to draft an executive summary of your findings so far. 
+
+### Task
+- Develop an executive summary slide synthesizing all the findings from the project so far, keeping in mind that this will be for the steering committee meeting which the head of the SME division, as well as other various stakeholders, will be attending.
